@@ -1,10 +1,10 @@
 CleanTEMP
 
-🌟 Overview:
+**🌟 Overview:**
 
 CleanTEMP is a powerful and efficient utility designed to clean up temporary files and optimize storage space. With its intuitive functionality, CleanTEMP helps keep your system organized and running smoothly by removing unnecessary temporary files that clutter your device.
 
-✨ Features:
+**✨ Features:**
 
 Fast and Reliable Cleanup: Quickly scans and deletes unnecessary temporary files.
 
@@ -16,7 +16,7 @@ Customizable Options: Choose specific folders or file types to clean.
 
 Performance Optimization: Frees up disk space and improves system speed.
 
-🚀 How to Use:
+**🚀 How to Use:**
 
 Installation
 
@@ -56,7 +56,7 @@ You can customize the behavior of CleanTEMP by editing the config.json file:
   "exclude": ["important.log"]
 }
 ```
-🤝 Contributing:
+**🤝 Contributing:**
 
 Contributions are welcome! Follow these steps to contribute:
 
@@ -70,11 +70,11 @@ Push to the branch: git push origin feature-name.
 
 Submit a pull request.
 
-📜 License:
+**📜 License:**
 
 CleanTEMP is open-source software licensed under the MIT License.
 
-🙌 Acknowledgements:
+**🙌 Acknowledgements:**
 
 Thanks to the open-source community for inspiration and contributions!
 
