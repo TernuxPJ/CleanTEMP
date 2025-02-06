@@ -1,4 +1,4 @@
-__--**CleanTEMP**--__
+**CleanTEMP**
 
 **🌟 Overview:**
 
@@ -32,15 +32,6 @@ python main.py
 **OR**
 
 Run App
-
-
-**Optional Arguments:**
-
---path <directory>: Specify a custom directory to clean.
-
---type <file_type>: Specify a file type (e.g., .log, .tmp).
-
---dry-run: Preview files to be deleted without removing them.
 
 ***🛠️ Configuration:***
 
