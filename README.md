@@ -18,24 +18,14 @@ Performance Optimization: Frees up disk space and improves system speed.
 
 **🚀 How to Use:**
 
-Installation
+__Installation__
 
-Clone the repository:
-```
-git clone https://github.com/yourusername/cleantemp.git
-cd cleantemp
-```
-
-Run the installation script (if applicable):
-```
-./install.sh
-```
 
 Usage
 
 Run the script to clean temporary files:
 ```
-python cleantemp.py
+python main.py
 ```
 
 Optional Arguments:
