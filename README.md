@@ -20,6 +20,8 @@ Performance Optimization: Frees up disk space and improves system speed.
 
 __Installation__
 
+1. Go To Relelase
+2. And Download App
 
 Usage
 
@@ -27,8 +29,12 @@ Run the script to clean temporary files:
 ```
 python main.py
 ```
+**OR**
 
-Optional Arguments:
+Run App
+
+
+**Optional Arguments:**
 
 --path <directory>: Specify a custom directory to clean.
 
@@ -36,7 +42,7 @@ Optional Arguments:
 
 --dry-run: Preview files to be deleted without removing them.
 
-🛠️ Configuration
+***🛠️ Configuration:***
 
 You can customize the behavior of CleanTEMP by editing the config.json file:
 ```
