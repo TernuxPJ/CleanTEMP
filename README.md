@@ -51,9 +51,8 @@ Optional Arguments:
 You can customize the behavior of CleanTEMP by editing the config.json file:
 ```
 {
-  "default_paths": ["/tmp", "C:/Windows/Temp"],
-  "file_types": [".tmp", ".log", ".bak"],
-  "exclude": ["important.log"]
+  "default_paths": ["%temp%", 'temp', "C:/Windows/Temp"],
+  "file_types": [ALL FILE IS FOLDER],
 }
 ```
 **🤝 Contributing:**
